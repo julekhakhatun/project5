@@ -1,0 +1,6 @@
+# to run java program 
+% javac SortedStackedListApp.java
+% java SortedStackedListApp 
+
+# generate java docs
+javadoc -d java-docs SortedStackedListApp.java

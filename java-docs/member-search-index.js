@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SortedStackedListApp","l":"addNumberInSortedOrder(Stack<Integer>, int)","u":"addNumberInSortedOrder(java.util.Stack,int)"},{"p":"<Unnamed>","c":"SortedStackedListApp","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"SortedStackedListApp","l":"SortedStackedListApp()","u":"%3Cinit%3E()"}];updateSearchResults();
